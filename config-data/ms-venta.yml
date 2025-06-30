@@ -2,7 +2,7 @@ server:
   port: 8095
 spring:
   application:
-    name: ms-producto
+    name: ms-venta
 
   datasource:
     url: jdbc:mysql://localhost:3306/ms-venta
